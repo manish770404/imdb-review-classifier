@@ -1,0 +1,4 @@
+In the backend we have main.py train.py and  models folder in which contain  two files that is classifier .pkl and vectorizer.pkl and we have a data set which is imdb data set but its size is very big so it is not uploaded
+we also also have requirement.txt file in which all requirements is being written
+
+and in the front end we have src folder we create react app that is imdb-review-app package.jason
